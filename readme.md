@@ -1,6 +1,6 @@
 
-# SeqDE Overview
-A Matlab toolbox for rigorous numerical methods based on the "sequence space" approach. Invariant sets are parameterized as coefficient sequences in some analytic function space and a proof of existence and rigorous error bounds come in the form of a-posteriori analytic error estimates.
+# IMP Overview
+A Matlab toolbox for rigorous and nonrigorous parameterization of invariant manifolds for ODEs. Invariant sets are parameterized as coefficient sequences in some analytic function space and a proof of existence and rigorous error bounds come in the form of a-posteriori analytic error estimates.
 
 See REFS for further details and examples.
 
